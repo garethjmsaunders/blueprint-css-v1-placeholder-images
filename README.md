@@ -4,7 +4,7 @@
 
 ![Blueprint grid example](img/header-placeholders-example.png)
 
-Blueprint placeholders is a collection of nearly **750 placeholder images**, optimized for the Blueprint CSS grid, useful for **quickly prototyping designs**.
+Blueprint placeholders is a collection of nearly **750 placeholder images** optimized for the Blueprint CSS grid, useful for **quickly prototyping designs**.
 
 * Project: Blueprint placeholders
 * Version: 1.0.0
@@ -12,7 +12,7 @@ Blueprint placeholders is a collection of nearly **750 placeholder images**, opt
 * Description: Placeholder images for use with Blueprint CSS v.1.0.1 and lower.
 * Last updated: Monday 4 July 2011
 
-**This is a resource for the original Blueprint CSS framework (not v3.x which uses CSS Grid and Flexbox) and is provided for reference and archive purposes.**
+**This is a resource for the original Blueprint CSS framework (not v3.x which uses CSS Grid and Flexbox) and is provided for reference and archive purposes. All dimensions were correct at the time of publication in 2011.**
 
 
 ---
@@ -24,17 +24,14 @@ This project arose out of a need I had for placeholder images on a Web project t
 
 I kept having to look-up the Blueprint grid.css or my own cheatsheet to work out image dimensions and wished that I could have a set of ready-made images that followed the Blueprint grid class names, to make them easy to use.
 
-Having created the grid-based images down to 25 rows (450px) I created a bunch
-of other, hopefully, useful images too.  I hope you find them as useful as I do.
+Having created the grid-based images down to 25 rows (450px) I created a bunch of other, hopefully, useful images too.  I hope you find them as useful as I do.
 
 ---
 
 
 ## Features
 
-Most of the images in this collection use the familiar **Blueprint class names** `span-1` to `span-24` (e.g. `span-4.gif`) and are overlaid with the images's
-dimensions which makes them **quick and easy to use**. There are a number of
-ready-made sets:
+Most of the images in this collection use the familiar **Blueprint class names** `span-1` to `span-24` (e.g. `span-4.gif`) and are overlaid with the images's dimensions which makes them **quick and easy to use**. There are a number of ready-made sets:
 
 ### 1. Grid
 Images to fit every combination of the grid down to 25 rows.
@@ -66,8 +63,7 @@ As well as the basic images above you also get images for specific purposes:
 * Vimeo videos
 * YouTube videos
 
-All images were created using the excellent http://placehold.it/
-by Brent and Russell.
+All images were created using the excellent http://placehold.it/ by Brent and Russell.
 
 
 ---
@@ -75,9 +71,7 @@ by Brent and Russell.
 
 ## 1. Grid
 
-The **grid** option enables you to use **any combination of column (1-24) and
-row (1-25)** to keep your design **true to the Blueprint grid**. Rows are measured
-by line-height (multiples of 18px). There are 600 images.
+The **grid** option enables you to use **any combination of column (1-24) and row (1-25)** to keep your design **true to the Blueprint grid**. Rows are measured by line-height (multiples of 18px). There are 600 images.
 
 The format for grid-based images is simple:
 
@@ -231,10 +225,7 @@ The above examples are:
 
 ### b) Amazon banners
 
-The Amazon Affiliates programme enables you to make money advertising Amazon
-products (up to 10% in referral fees). Amazon provides a number of ready-made
-affiliate links and banners. This set contains the most common, standard Amazon
-banner sizes:
+The Amazon Affiliates programme enables you to make money advertising Amazon products (up to 10% in referral fees). Amazon provides a number of ready-made affiliate links and banners. This set contains the most common, standard Amazon banner sizes:
 
     88 x 31
     100 x 70
